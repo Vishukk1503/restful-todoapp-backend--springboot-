@@ -1,4 +1,4 @@
-Here’s a **README** that covers both how to run the Spring Boot To-Do app in **Spring Tool Suite (STS)** and how to use **Docker** to run the application.
+
 
 ---
 
@@ -184,4 +184,3 @@ Here are the API endpoints provided by the backend:
 
 ---
 
-This should guide you through running the backend both in STS and Docker. Let me know if you need any more information!
